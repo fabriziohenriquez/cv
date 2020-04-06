@@ -1,0 +1,238 @@
+h1 {
+  font-family: 'Permanent Marker', cursive;
+  color: #f4f9f4;
+  margin: 0;
+  font-size: 5.625rem;
+  padding-top: 100px;
+}
+
+body {
+  text-align: center;
+  margin: 0;
+  font-family: 'Ubuntu', sans-serif;
+  background-color: #faf9f9;
+}
+
+h2 {
+  font-family: 'Lato', sans-serif;
+  color: #005082;
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-family: 'Lato', sans-serif;
+  color: #f78259;
+  font-size: 1.8rem;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  margin: 10px 50px 10px 0;
+  color: #142850;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+img {
+  display: inline-block;
+}
+
+hr {
+  border-top: 10px dotted #dee3e2;
+  width: 5%;
+  border-bottom: 0;
+  margin: 100px auto;
+  border-left: 0;
+  border-right: 0;
+}
+
+p {
+  color: #323232;
+  font-size: 1.2rem;
+}
+
+.subtitle {
+  font-weight: normal;
+  color: #f4f9f4;
+}
+
+.navbar {
+  width: 100%;
+}
+
+.headerlink {
+  float: right;
+}
+
+.intext-link:hover {
+  color: #f78359;
+}
+
+.intext-link {
+  margin: 0 0 0 0;
+}
+
+.topcontainer {
+  background-image: linear-gradient(#eeaf61, #fb9062, #ee5d6c, #ce4993, #6a0d83);
+}
+
+.middlecontainer {
+  margin-top: 100px;
+}
+
+.skyline {
+  width: 90%;
+  position: relative;
+  top: 3px;
+}
+
+.world-pic {
+  height: 25%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.code-pic {
+  height: 25%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.heart-pic {
+  height: 25%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.manager-pic {
+  height: 25%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-row {
+  margin: 100px auto;
+  width: 50%;
+  line-height: 2;
+  text-align: left;
+}
+
+.contactmeparagraph {
+  width: 60%;
+  margin-left: 20%;
+}
+
+.contactheader {
+  margin-bottom: 50px;
+}
+
+.contactsubtitle {
+  margin-bottom: 50px;
+}
+
+.btn {
+  background-color: #005082;
+  border-radius: 20px;
+  border: 1px solid #02395c;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 25px;
+  padding: 20px 25px;
+  text-decoration: none;
+  margin: 50px auto;
+}
+
+.btn:hover {
+  background-color: #f78359;
+}
+
+.btn:active {
+  position: relative;
+  top: 1px;
+}
+
+.footertab {
+  height: 150px;
+  width: 100%;
+  background-color: #84a9ac;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.name-cr {
+  color: #fafafa;
+  font-size: 0.8rem;
+  padding-top: 25px;
+}
+
+.footer-link {
+  color: #fafafa;
+  padding-top: 25px;
+}
+
+.footer-link:hover {
+  color: #393e46;
+}
+
+.palmtree {
+  width: 10%;
+  height: auto;
+}
+
+.l-tree {
+  padding-right: 30%;
+  position: relative;
+}
+
+.r-tree {
+  padding-left: 30%;
+  position: relative;
+}
+
+.homeicon {
+  height: auto;
+  width: 100%;
+}
+
+.homeicon:hover {
+  filter: invert(1);
+}
+
+.homelink {
+  height: 25px;
+  width: 25px;
+}
+
+.secondaryh1 {
+  margin-bottom: 5%;
+}
+
+.firstfooter-link {
+  padding-left: 3.7%;
+}
+
+.backgroundparagraph {
+  text-align: left;
+  margin-left: 50px;
+}
+
+.graduationpic {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.resourceimg {
+  width: 25%;
+}
